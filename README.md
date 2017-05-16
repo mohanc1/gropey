@@ -1,0 +1,2 @@
+# gropey
+to study python 
